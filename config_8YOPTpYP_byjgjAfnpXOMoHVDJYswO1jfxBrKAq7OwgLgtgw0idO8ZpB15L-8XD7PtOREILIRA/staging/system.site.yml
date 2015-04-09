@@ -1,0 +1,12 @@
+uuid: 487d5541-a650-4fe5-9f00-b9c3c958a3bb
+name: 'Commit all the things'
+mail: ivan@rootwork.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
